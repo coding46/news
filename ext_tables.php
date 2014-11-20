@@ -149,7 +149,7 @@ $boot = function($packageKey) {
 				),
 				array(
 					'access' => 'user,group',
-					'icon'   => 'EXT:' . $packageKey . '/Resources/Public/Icons/folder.gif',
+					'icon'   => 'EXT:' . $packageKey . '/Resources/Public/Icons/module_administration.png',
 					'labels' => 'LLL:EXT:' . $packageKey . '/Resources/Private/Language/locallang_modadministration.xlf',
 				)
 			);
